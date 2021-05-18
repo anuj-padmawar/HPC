@@ -1,0 +1,22 @@
+D:\BE_4434\LP1\HPC\Assignment1>g++ partA_parallelReduction.cpp -lgomp -o parta.exe
+
+D:\BE_4434\LP1\HPC\Assignment1>parta.exe
+
+=====Reduction operation name = MAX=====
+
+MAX value from array is = 32761
+
+=====Reduction operation name = MIN=====
+
+MIN value from array is = 21
+
+=====Reduction operation name = SUM=====
+
+SUM value from array is = 67311659
+
+=====Reduction operation name = AVERAGE=====
+
+AVERAGE value from array is = 16433
+execution time = 0.017
+
+D:\BE_4434\LP1\HPC\Assignment1>

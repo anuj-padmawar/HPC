@@ -1,0 +1,12 @@
+vector addition
+g++ vect.cpp -fopenmp
+./a.out
+
+
+mat vect multiplication
+g++ mat_vec.cpp -fopenmp
+./a.out
+
+matrix matrix multiplication
+g++ mat.cpp -fopenmp
+./a.out

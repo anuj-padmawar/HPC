@@ -1,0 +1,2 @@
+ g++ -o x vect.cpp -fopenmp
+./x

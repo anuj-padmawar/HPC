@@ -1,0 +1,5 @@
+commands to run program
+g++ SerialMergeSort.cpp -lgomp -o serial.exe
+g++ paralelMergeSort.cpp -lgomp -o parallel.exe
+serial.exe
+parallel.exe
